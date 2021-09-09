@@ -1,0 +1,15 @@
+{
+  "name": "devify",
+  "version": "1.0.0",
+  "description": "a support bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "firebase": "^8.6.2"
+  },
+  "author": "Zyro",
+  "license": "MIT"
+}
